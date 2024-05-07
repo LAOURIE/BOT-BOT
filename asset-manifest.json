@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LAOURIE/BOT-BOT.git/static/css/main.47ff9fea.css",
+    "main.js": "/LAOURIE/BOT-BOT.git/static/js/main.28a314d5.js",
+    "static/js/453.ad6eb26e.chunk.js": "/LAOURIE/BOT-BOT.git/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/LAOURIE/BOT-BOT.git/index.html",
+    "main.47ff9fea.css.map": "/LAOURIE/BOT-BOT.git/static/css/main.47ff9fea.css.map",
+    "main.28a314d5.js.map": "/LAOURIE/BOT-BOT.git/static/js/main.28a314d5.js.map",
+    "453.ad6eb26e.chunk.js.map": "/LAOURIE/BOT-BOT.git/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ff9fea.css",
+    "static/js/main.28a314d5.js"
+  ]
+}
